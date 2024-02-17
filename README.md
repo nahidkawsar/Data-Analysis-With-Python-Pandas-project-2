@@ -1,8 +1,7 @@
 Project - 2 | Data Analysis With Python Pandas | E-Commerce Purchases Dataset.
 In this project,I have worked on the real-world data set available on Kaggle.
 
-Dataset: https://www.kaggle.com/utkarsharya/ec...
-
+Dataset: https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases
 To perform data analysis,I tried to answer the following 15 questions.
 1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
